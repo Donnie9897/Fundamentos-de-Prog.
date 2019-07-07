@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1562245678 source:c:\users\luisd\desktop\clase_colas\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conio.c"
+	"Pelicula.h"
+
+1560810828 source:c:\users\luisd\desktop\clase_colas\listas\anotha.c
+	<stdio.h>
+	<stdlib.h>
+
+1560812303 source:c:\users\luisd\desktop\clase_colas\listas\lista enlazada como pila.c
+	<stdio.h>
+	<stdlib.h>
+
+1560812011 source:c:\users\luisd\desktop\clase_colas\listas\try this one now.c
+	<stdio.h>
+	<stdlib.h>
+
+1561430101 source:c:\users\luisd\desktop\clase_colas\listas\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1560869198 c:\users\luisd\desktop\clase_colas\listas\lista.h
+	<stdlib.h>
+
+1562246869 c:\users\luisd\desktop\clase_colas\listas\pelicula.h
+	<stdlib.h>
+	<stdio.h>
+
+1561470895 c:\users\luisd\desktop\clase_colas\listas\pelicula.c
+	<stdlib.h>
+	<stdio.h>
+	"Pelicula.h"
+
+1562246879 source:c:\users\luisd\desktop\clase_colas\listas\pelicula.c
+	<stdlib.h>
+	"Pelicula.h"
+
+1561515178 source:c:\users\luisd\desktop\clase_colas\listas\lista, histograma como cola.c
+	<stdio.h>
+	<stdlib.h>
+
+1561899115 source:c:\users\luisd\desktop\clase_colas\listas\lista doble.c
+	<stdio.h>
+	<stdlib.h>
+
+1562025409 source:c:\users\luisd\desktop\clase_colas\listas\lista circular.c
+	<stdio.h>
+	<stdlib.h>
+
+1562062130 source:c:\users\luisd\desktop\clase_colas\listas\lista enlazada.c
+	<stdio.h>
+	<stdlib.h>
+
