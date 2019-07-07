@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1560709495 source:c:\users\luisd\desktop\clase_colas\colas.c
+	<stdlib.h>
+	"Clase.h"
+
+1559655243 c:\users\luisd\desktop\clase_colas\clase.h
+	<stdlib.h>
+
+1560859869 source:c:\users\luisd\desktop\clase_colas\main.c
+	<stdlib.h>
+	<stdio.h>
+	"Clase.h"
+	<conio.c>
+
+1560709420 source:c:\users\luisd\desktop\clase_colas\otro main.c
+	<stdlib.h>
+	<stdio.h>
+	"Clase.h"
+	<conio.c>
+
