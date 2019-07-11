@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1562874450 source:c:\users\luisd\pictures\practicar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Practica.h"
+
+1562874257 c:\users\luisd\pictures\practicar\practica.h
+	<stdio.h>
+	<stdlib.h>
+
+1562874385 source:c:\users\luisd\pictures\practicar\practica.c
+	<stdio.h>
+	<stdlib.h>
+	"Practica.h"
+
