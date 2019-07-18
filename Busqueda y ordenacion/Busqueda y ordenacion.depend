@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563280853 source:c:\users\luisd\pictures\busqueda y ordenacion\busqueda y ordenacion,c.c
+
+1563288806 source:c:\users\luisd\pictures\busqueda y ordenacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
